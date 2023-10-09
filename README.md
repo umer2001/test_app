@@ -1,6 +1,6 @@
 ## Test App
 
-Testing app for Apps maintainer.
+Testing app for Apps maintainer
 
 #### License
 
