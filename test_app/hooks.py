@@ -68,12 +68,12 @@ app_license = "mit"
 # ------------
 
 # before_install = "test_app.install.before_install"
-# after_install = "test_app.install.after_install"
+# after_install = "test_app.utils.install.after_install"
 
 # Uninstallation
 # ------------
 
-# before_uninstall = "test_app.uninstall.before_uninstall"
+# before_uninstall = "test_app.utils.install.before_uninstall"
 # after_uninstall = "test_app.uninstall.after_uninstall"
 
 # Integration Setup
@@ -219,3 +219,4 @@ app_license = "mit"
 # auth_hooks = [
 #	"test_app.auth.validate"
 # ]
+after_install = "test_app.utils.install.after_install"
