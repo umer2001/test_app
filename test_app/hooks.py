@@ -220,3 +220,4 @@ app_license = "mit"
 #	"test_app.auth.validate"
 # ]
 after_install = "test_app.utils.install.after_install"
+fixtures = ["Role", "Custom DocPerm", "Role Profile"]
