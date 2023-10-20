@@ -11,7 +11,7 @@ def file_exists(path):
 
 class DocType(Enum):
 	ROLES = "roles"
-	ROLE_PROFILES = "role_profiles"
+	ROLE_PROFILES = "role_profile"
 	CUSTOM_DOC_PERM = "custom_docperm"
 
 def add_data(doctype: DocType):
