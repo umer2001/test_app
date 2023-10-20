@@ -1,9 +1,9 @@
 [
     {
-        "name": "WorkSpace Item",
-        "modified": "2023-10-15 21:52:26.501928",
+        "name": "WorkSpace Sales",
+        "modified": "2023-10-15 21:41:36.432891",
         "docstatus": 0,
-        "role_name": "WorkSpace Item",
+        "role_name": "WorkSpace Sales",
         "home_page": null,
         "restrict_to_domain": null,
         "disabled": 0,
@@ -21,10 +21,10 @@
         "doctype": "Role"
     },
     {
-        "name": "WorkSpace CRM",
-        "modified": "2023-10-15 21:46:35.601304",
+        "name": "WorkSpace Item",
+        "modified": "2023-10-15 21:52:26.501928",
         "docstatus": 0,
-        "role_name": "WorkSpace CRM",
+        "role_name": "WorkSpace Item",
         "home_page": null,
         "restrict_to_domain": null,
         "disabled": 0,
