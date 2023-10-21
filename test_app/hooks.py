@@ -221,4 +221,4 @@ app_license = "mit"
 # ]
 after_install = "test_app.utils.install.after_install"
 fixtures = ["Role", "Custom DocPerm", "Role Profile"]
-before_migrate = "test_app.patches.v_1.pre_model_sync.execute"
+# before_migrate = "test_app.patches.v_1.pre_model_sync.execute"
