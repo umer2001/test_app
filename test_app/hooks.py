@@ -219,6 +219,6 @@ app_license = "mit"
 # auth_hooks = [
 #	"test_app.auth.validate"
 # ]
-after_install = "test_app.utils.install.after_install"
+
+before_migrate = "test_app.utils.migrate.before_migrate"
 fixtures = ["Role", "Custom DocPerm", "Role Profile"]
-before_migrate = "test_app.patches.v_1.pre_model_sync.execute"
