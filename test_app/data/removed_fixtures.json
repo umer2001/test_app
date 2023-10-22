@@ -1,5 +1,6 @@
 {
     "Role": [
+        "Accounts Manager",
         "Accounts User",
         "WorkSpace Item",
         "WorkSpace Sales"
@@ -8,6 +9,14 @@
         "TestRoleProfile"
     ],
     "Custom DocPerm": [
+        "e17af6f3eb",
+        "5b420f24af",
+        "28b6e0ef1b",
+        "fd46e85bca",
+        "aefedad324",
+        "5d98d541be",
+        "8313500c08",
+        "de9005c5a2",
         "f9db56a696",
         "45691f6a2c",
         "4ba66dfeda",

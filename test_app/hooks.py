@@ -222,3 +222,6 @@ app_license = "mit"
 
 before_migrate = "test_app.utils.migrate.before_migrate"
 fixtures = ["Role", "Custom DocPerm", "Role Profile"]
+
+before_migrate = "test_app.utils.migrate.before_migrate"
+fixtures = ["Role", "Custom DocPerm", "Role Profile"]
