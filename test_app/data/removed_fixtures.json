@@ -46,6 +46,7 @@
         "d38901bc48"
     ],
     "Role": [
+        "TestRole",
         "Accounts Manager",
         "Accounts User",
         "WorkSpace Item",
