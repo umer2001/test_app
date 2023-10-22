@@ -1,0 +1,48 @@
+{
+    "Role": [
+        "Accounts User",
+        "WorkSpace Item",
+        "WorkSpace Sales"
+    ],
+    "Role Profile": [
+        "TestRoleProfile"
+    ],
+    "Custom DocPerm": [
+        "f9db56a696",
+        "45691f6a2c",
+        "4ba66dfeda",
+        "19c9476ef8",
+        "d7fdd469f3",
+        "7d17a5e6e3",
+        "aed55395c7",
+        "4cfeab943a",
+        "1cb201384e",
+        "7aab2edaf8",
+        "882388b09d",
+        "28f37933d6",
+        "505f75740d",
+        "277f4e4fbb",
+        "fb94835ec5",
+        "6e65c716ae",
+        "0afe27e2b4",
+        "6175d91b4b",
+        "ff53bc6a79",
+        "840adf965c",
+        "fe4b46a4ff",
+        "338585be88",
+        "297b074d6d",
+        "d566a82c9f",
+        "56fbb2749e",
+        "0526f72c3a",
+        "c05a58eaf9",
+        "fdf97e1cc6",
+        "5d04a36f76",
+        "e007b94893",
+        "2db2dca36f",
+        "53862ca691",
+        "66f82ccbfd",
+        "9a38be77cf",
+        "b0ee8c9c2f",
+        "d38901bc48"
+    ]
+}
